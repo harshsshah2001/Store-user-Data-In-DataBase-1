@@ -40,4 +40,6 @@ Using HBS we can store the data in database easily.you can write HTML markup in 
 
 ![image](https://github.com/harshsshah2001/Store-user-Data-In-DataBase/assets/139530635/da3d22c4-659e-48c5-977b-bbd3e4d82e1b)
 ![image](https://github.com/harshsshah2001/Store-user-Data-In-DataBase/assets/139530635/c3e77609-3511-4196-9e3b-215bb70fdfee)
+![image](https://github.com/harshsshah2001/Store-user-Data-In-DataBase/assets/139530635/fa9706a1-acf8-4355-af1d-e2794a959288)
+
 
